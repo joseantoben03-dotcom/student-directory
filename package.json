@@ -2,6 +2,7 @@
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
+   "homepage": "https://joseantoben03-dotcom.github.io/student-directory/",
   "type": "module",
   "scripts": {
     "dev": "vite",
